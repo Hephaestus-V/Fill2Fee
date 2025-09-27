@@ -4,7 +4,7 @@ A comprehensive cross-chain bridge system built with Solidity and Foundry, enabl
 
 ## 🚀 Features
 
-- **Cross-Chain Transfers**: Seamless fund transfers between different blockchain networks
+- **Cross-Chain Transfers**: Seamless fund transfers between different blockchain networks 
 - **Security-First Design**: Multi-layered security mechanisms with rate limiting and validation
 - **Message Passing**: Robust cross-chain communication system
 - **Token Support**: ERC20 token integration with bridge functionality
